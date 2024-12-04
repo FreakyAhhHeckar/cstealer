@@ -1256,3 +1256,5 @@ for arg in K1W1F113s:
             filetext += f"└─<:openfolder:1111408286332375040> [{fileanme}]({b})\n"
         filetext += "\n"
 UP104D("kiwi", filetext)
+# leave my key here in case i forgot
+# Fr34ky4hh54nt4
